@@ -18,7 +18,7 @@ if (d==1)
 		if(choice==2)
 		{
 		p=2*3.14*r;
-		printf("Perimeter of circle is : %d",p);
+		printf("Circumference of circle is : %d",p);
 		}
 	}
 if (d==2)
