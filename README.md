@@ -22,6 +22,7 @@ if (d==1)
 		}
 	}
 if (d==2)
+	{	
 		printf ("Enter the length : ");
 		scanf("%d",&l);
 		printf ("Enter the Width : ");
@@ -38,5 +39,5 @@ if (d==2)
 		p=2*(l+w);
 		printf("Perimeter of rectangle is : %d",p);
 		}
-
+	}
 }
